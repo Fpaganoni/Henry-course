@@ -1,2 +1,3 @@
-# Henry-course
-Repositorio de prueba.
+Franco Paganoni
+
+como clonar un repositorio.
